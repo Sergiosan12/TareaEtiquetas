@@ -10,6 +10,6 @@
 
 ## Diagrama de clase y diagrama de flujo
 
-![Diagrama de Clase](/img/DiagramaClase)
+![Diagrama de Clase](/img/DiagramaClase.png)
 
-![Diagrama de Flujo](/img/DiagramaFlujo)
+![Diagrama de Flujo](/img/DiagramaFlujo.png)
