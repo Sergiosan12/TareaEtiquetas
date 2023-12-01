@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        Futbolista fut=new Futbolista(5,"Central",9,"Sergio","Ramos",35);
+        Futbolista fut=new Futbolista(8,"Medio",9,"Andres","Iniesta",37);
 
-        SeleccionFutbol ent=new Entrenador("CC",8,"Pep","Mourinho",50);
+        SeleccionFutbol ent=new Entrenador("ST",8,"Jurgen","Klopp",45);
 
 
         fut.setEdade(25);
